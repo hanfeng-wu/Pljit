@@ -1,0 +1,227 @@
+[
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/test/TestRegisterFunction.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/test/TestRegisterFunction.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/test/TestRegisterFunction.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/Pljit.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/Pljit.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/Pljit.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/lex/Identifer.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Identifer.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Identifer.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/lex/Separator.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Separator.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Separator.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/semantic/TreeNode/Function.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/TreeNode/Function.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/TreeNode/Function.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Function_Def.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Function_Def.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Function_Def.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Parameter_Dec.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Parameter_Dec.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Parameter_Dec.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Variable_Dec.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Variable_Dec.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Variable_Dec.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Const_Dec.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Const_Dec.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Const_Dec.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Dec_List.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Dec_List.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Dec_List.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Init_List.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Init_List.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Init_List.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Assign_Exp.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Assign_Exp.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Assign_Exp.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Add_Exp.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Add_Exp.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Add_Exp.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Multi_Exp.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Multi_Exp.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Multi_Exp.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Unary_Exp.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Unary_Exp.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Unary_Exp.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Prim_Exp.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Prim_Exp.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Prim_Exp.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/lex/Lexer.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Lexer.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Lexer.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/lex/LexToken.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/LexToken.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/LexToken.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/lex/Position.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Position.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Position.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/lex/Keyword.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Keyword.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Keyword.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/lex/Number.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Number.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Number.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/lex/test/TestLexer.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/test/TestLexer.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/test/TestLexer.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/Node/NonTerminal.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/Node/NonTerminal.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/Node/NonTerminal.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Comp_Statement.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Comp_Statement.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Comp_Statement.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Statement_List.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Statement_List.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Statement_List.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Statement.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Statement.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Statement.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Init_Dec.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Init_Dec.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Init_Dec.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/test/TestSyntax.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/test/TestSyntax.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/test/TestSyntax.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/expression/Error.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Error.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/expression/Error.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/TreeVisitor.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/TreeVisitor.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/TreeVisitor.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/PrintDotVisitor.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/PrintDotVisitor.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/PrintDotVisitor.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/syntax/SyntaxParser.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/SyntaxParser.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/SyntaxParser.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/semantic/AST.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/AST.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/AST.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/semantic/TreeNode/SemanticStatement.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/TreeNode/SemanticStatement.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/TreeNode/SemanticStatement.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/semantic/TreeNode/Expression.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/TreeNode/Expression.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/TreeNode/Expression.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/semantic/Symbol.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/Symbol.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/Symbol.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/semantic/ASTPrintDotVisitor.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/ASTPrintDotVisitor.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/ASTPrintDotVisitor.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/semantic/test/TestSemantic.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/test/TestSemantic.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/test/TestSemantic.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/semantic/Evaluator.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/Evaluator.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/Evaluator.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/pljit",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/pljit_core.dir/semantic/Optimizer.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/Optimizer.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/Optimizer.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/test",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/tester.dir/Tester.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/test/Tester.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/test/Tester.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/test",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/tester.dir/__/pljit/lex/test/TestLexer.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/test/TestLexer.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/test/TestLexer.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/test",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/tester.dir/__/pljit/semantic/test/TestSemantic.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/test/TestSemantic.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/semantic/test/TestSemantic.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/test",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/tester.dir/__/pljit/syntax/test/TestSyntax.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/test/TestSyntax.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/syntax/test/TestSyntax.cpp"
+},
+{
+  "directory": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/cmake-build-debug/test",
+  "command": "/usr/bin/c++   -I\"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final\"   -Wall -Wextra -Wpedantic -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined   -std=gnu++17 -o CMakeFiles/tester.dir/__/pljit/test/TestRegisterFunction.cpp.o -c \"/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/test/TestRegisterFunction.cpp\"",
+  "file": "/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/test/TestRegisterFunction.cpp"
+}
+]

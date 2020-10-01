@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../pljit/Position.hpp
+cstdlib
+-
+string
+-
+
+../pljit/lex/LexToken.hpp
+memory
+-
+pljit/Position.hpp
+-
+pljit/syntax/Node/SyntaxNode.hpp
+-
+
+../pljit/lex/Lexer.hpp
+Keyword.hpp
+../pljit/lex/Keyword.hpp
+LexToken.hpp
+../pljit/lex/LexToken.hpp
+list
+-
+memory
+-
+pljit/syntax/expression/Error.hpp
+-
+string
+-
+vector
+-
+
+../pljit/lex/Number.hpp
+LexToken.hpp
+../pljit/lex/LexToken.hpp
+string
+-
+
+../pljit/syntax/Node/NonTerminal.hpp
+SyntaxNode.hpp
+../pljit/syntax/Node/SyntaxNode.hpp
+memory
+-
+
+../pljit/syntax/Node/SyntaxNode.hpp
+pljit/syntax/TreeVisitor.hpp
+../pljit/syntax/Node/pljit/syntax/TreeVisitor.hpp
+
+../pljit/syntax/TreeVisitor.hpp
+
+../pljit/syntax/expression/Error.hpp
+pljit/lex/LexToken.hpp
+../pljit/syntax/expression/pljit/lex/LexToken.hpp
+memory
+-
+pljit/lex/Lexer.hpp
+-
+pljit/syntax/Node/NonTerminal.hpp
+-
+vector
+-
+
+/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Keyword.hpp
+LexToken.hpp
+/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/LexToken.hpp
+
+/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/LexToken.hpp
+memory
+-
+pljit/Position.hpp
+-
+pljit/syntax/Node/SyntaxNode.hpp
+-
+
+/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Lexer.hpp
+Keyword.hpp
+/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Keyword.hpp
+LexToken.hpp
+/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/LexToken.hpp
+list
+-
+memory
+-
+pljit/syntax/expression/Error.hpp
+-
+string
+-
+vector
+-
+
+/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/main.cpp
+lex/Lexer.hpp
+/home/wuha/Wu Hanfeng/TUM/cpppraktikum/New Folder/final/pljit/lex/Lexer.hpp
+iostream
+-
+pljit/lex/Number.hpp
+-
+
