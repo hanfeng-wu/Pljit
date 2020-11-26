@@ -2,10 +2,15 @@
 Easy compiler that converts String to excutable functions with multithreading ability
 using function in Pljit Pljit::registerFunction(const string& s) to register function with respect to the grammar of
 function-definition = [ parameter-declarations ]
+
 [ variable-declarations ]
+
 [ constant-declarations ]
+
 compound-statement
+
 ".".
+
 parameter-declarations = "PARAM" declarator-list ";".
 variable-declarations = "VAR" declarator-list ";".
 constant-declarations = "CONST" init-declarator-list ";".
