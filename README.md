@@ -56,6 +56,8 @@ volume := width * height * depth;
 RETURN density * volume
 
 END.
+--------------------------------------------------------------------------------
+See following CPP code how to actually run them
 
 Pljit jit; // Create an object that manages just-in-time
 
