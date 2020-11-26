@@ -28,30 +28,20 @@ compound-statement = "BEGIN" statement-list "END".
 
 statement-list = statement { ";" statement }.
 
-statement = assignment-expression
-
-| "RETURN" additive-expression.
+statement = assignment-expression | "RETURN" additive-expression.
 
 assignment-expression = identifier ":=" additive-expression.
 
-additive-expression = multiplicative-expression
+additive-expression = multiplicative-expression [ ( "+" | "-" ) additive-expression ].
 
-[ ( "+" | "-" ) additive-expression ].
-
-multiplicative-expression = unary-expression
-
-[ ( "*" | "/" ) multiplicative-expression ].
+multiplicative-expression = unary-expression  ( "*" | "/" ) multiplicative-expression ].
 
 unary-expression = [ "+" | "-" ] primary-expression.
 
-primary-expression = identifier
+primary-expression = identifier | literal | "(" additive-expression ")".
 
-| literal
-
-| "(" additive-expression ")".
-
-
-for Example
+--------------------------------------------------------------------------------
+Example:
 
 PARAM width, height, depth;
 
