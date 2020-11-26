@@ -56,6 +56,7 @@ volume := width * height * depth;
 RETURN density * volume
 
 END.
+
 --------------------------------------------------------------------------------
 See following CPP code how to actually run them
 
